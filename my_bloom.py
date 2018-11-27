@@ -35,7 +35,7 @@ class myBloomFilter:
         print("Bloom size:", "{:,}".format(self.size))
         print("Hash Count:", "{:,}".format(self.hash_count))
         print("Bit sum:", "{:,}".format(self.sum))
-        print("Bit density:", "{:.4f}".format(self.sum/len(self.view)), "\n")
+        # print("Bit density:", "{:.4f}".format(self.sum/len(self.view)), "\n")
 
 @time_it
 def main():
