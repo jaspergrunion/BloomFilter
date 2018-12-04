@@ -1,4 +1,4 @@
-# Bloom
+# Bloom Filters in Python
 
 What is a Bloom filter?
 - A space-efficient probabilistic data structure that stores a bit array created off of hashes of the data
