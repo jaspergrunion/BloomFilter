@@ -96,6 +96,5 @@ def main():
     print("Total false positives: ", "{:,}".format(false_positives))
     print("False positive rate: ", "{:.4f}".format(false_positives / (other_terms_checked + 1)))
 
-
 if __name__ == "__main__":
     main()
