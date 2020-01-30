@@ -19,7 +19,7 @@ def time_it(func):
         func(*args, **kwargs)
         elapsed_time = time.perf_counter() - start_time
         print("---------------")
-        print("Elaspsed time:", str(elapsed_time), "seconds")
+        print("Elapsed time:", str(elapsed_time), "seconds")
     return wrapper
 
 class myBloomFilter:
