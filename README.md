@@ -48,7 +48,7 @@ Number of terms checked:  70,766
 Total false positives:  725
 False positive rate:  0.0102
 ---------------
-Elaspsed time: 3.3934684690029826 seconds
+Elapsed time: 3.3934684690029826 seconds
 
 ```
 
